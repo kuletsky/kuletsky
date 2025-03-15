@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ## My GitHub Contributions
-[![GitHub Streak](https://streak-stats.demolab.com?user=kuletsky&theme=dark&hide_border=true)](https://github.com/kuletsky)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kuletsky&theme=light&hide_border=true)](https://github.com/kuletsky)
 
 ## GitHub Stats  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuletsky&show_icons=true&theme=dark)](https://github.com/kuletsky)
