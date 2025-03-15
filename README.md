@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Konstantin Kuletsky!
 
-### 🚀 Software QA Automation Engineer | SDET | Python Enthusiast
+### 🚀 Software QA Automation Engineer | SDET | 
+### Java, Python, Selenium, Appium, Playwright, JUnit/TestNG
 
 Welcome to my GitHub profile! With over 5 years in the IT field, I specialize in **QA Automation**, leveraging tools like **Selenium**, **Playwright**, **TestNG/JUnit**. I'm passionate about ensuring software quality and sharing knowledge within the community.
 
