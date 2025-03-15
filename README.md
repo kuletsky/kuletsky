@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Konstantin Kuletsky!
 
 ### I AM a Software QA Automation Engineer | SDET 🚀 
-### I DO MOBILE, API, WEB Automation 🎯 
+### I DO MOBILE, REST API, WEB Automation 🎯 
 ### I USE Java, Python, Selenium, Appium, Playwright, JUnit/TestNG, RestAssuerd ☕️ 
 ### I AM Certified by AWS and ASTQB 💻
 
