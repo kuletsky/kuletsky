@@ -7,7 +7,3 @@ Welcome to my GitHub profile! With over 5 years in the IT field, I specialize in
 💬 **Ask me about:** Automation testing, Python development, and best practices in QA.
 
 📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/kuletsky)
-
----
-
-### 🚀 Keep Testing & Innovating! 🚀
