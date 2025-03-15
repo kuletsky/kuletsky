@@ -7,9 +7,9 @@ Welcome to my GitHub profile! With over 5 years in the IT field, I specialize in
 ---
 
 ## 🔥 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=kuletsky&theme=dark&hide_border=true)](https://github.com/kuletsky)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuletsky&show_icons=true&theme=dark)](https://github.com/kuletsky)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuletsky&layout=compact&theme=dark)](https://github.com/kuletsky)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kuletsky&theme=light&hide_border=true)](https://github.com/kuletsky)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuletsky&show_icons=true&theme=light)](https://github.com/kuletsky)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuletsky&layout=compact&theme=light)](https://github.com/kuletsky)
 
 ---
 
