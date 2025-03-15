@@ -2,7 +2,7 @@
 
 ### 🚀 Software QA Automation Engineer | SDET | Python Enthusiast
 
-Welcome to my GitHub profile! With over 5 years in the IT field, I specialize in **QA Automation**, leveraging tools like **Selenium**, **Playwright**, and **Cypress**. I'm passionate about ensuring software quality and sharing knowledge within the community.
+Welcome to my GitHub profile! With over 5 years in the IT field, I specialize in **QA Automation**, leveraging tools like **Selenium**, **Playwright**, **TestNG/JUnit**. I'm passionate about ensuring software quality and sharing knowledge within the community.
 
 ---
 
