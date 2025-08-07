@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Konstantin Kuletsky!
+# 👋 Hi, I'm Kuletsky!
 Welcome to my GitHub profile!
 ### I AM a Software QA Automation Engineer | SDET 🚀 
 ### I DO MOBILE, REST API, WEB Automation 🎯 
